@@ -1,0 +1,29 @@
+.input-conver{
+	border-width:0.0rem!important;
+	height: calc(2.25rem + 18px);
+	font-weight:700;
+	font-size:25px;
+}
+.font-general{
+	font-family:'Montserrat', sans-serif;
+}
+.titular{
+	font-weight:700;	
+}
+.conver-head{
+	font-size:15px;
+	color:#989898;
+}
+.conver-indicaciones{
+	color:#000;
+}	
+.font-tip-area{	
+	color:#989898
+}
+.font-simbol-area{	
+	color:#000
+}
+.font-pie{
+   color:#000;
+}
+
