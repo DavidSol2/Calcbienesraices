@@ -15,7 +15,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 //final class Artisansweb_Elementor_Extension {
 final class ConversorAreasBienesRaices_Elementor_Extension { 
     const VERSION = '1.0';
-    const MINIMUM_ELEMENTOR_VERSION = '2.0.0';
+    const MINIMUM_ELEMENTOR_VERSION = '3.0.0';
     const MINIMUM_PHP_VERSION = '7.0';
  
     private static $_instance = null;
